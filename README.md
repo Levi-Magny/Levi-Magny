@@ -1,7 +1,7 @@
 ### Olá, sou Levi Magny 👋
 
 - 🔭 Sou estudante na Universidade Federal de Itajubá
-- 🌱 Atualmente estou estudando React e NextJS
+- 🌱 Atualmente estou estudando React, NextJS, Typescript e Django
  <div>
   <a href="https://github.com/Levi-Magny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi-Magny&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -15,8 +15,9 @@
  <img align="center" alt="Levi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Levi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Levi-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+ <img align="center" alt="Levi-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
  <img align="center" alt="Levi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="Levi-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 <hr/>
 <div> 
